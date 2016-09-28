@@ -1,0 +1,39 @@
+.me {
+	height: 200px;
+  	padding: 0 20px 10px 10px;
+  	border-radius: 0%;
+  	float: left;
+}
+
+h3 {
+	text-align: center;
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+}
+
+
+.thumb {
+	width: 75px;
+  	height: 75px;
+  	display: inline-block;
+}
+
+.footer {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 11px;
+	clear: both;
+	font-family: 'Playfair Display', serif;
+}
+
+body{
+	line-height: 150%;
+	color: #666;
+	padding-left: -15px;
+	padding-right: -15px;
+}
+
+
